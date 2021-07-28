@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Bible Concordance</string>
+
+    <string-array name="books_array">
+        <item>Genesis</item>
+        <item>Exodus</item>
+        <item>Leviticus</item>
+        <item>Numbers</item>
+        <item>Deuteronomy</item>
+        <item>Joshua</item>
+        <item>Judges</item>
+        <item>Ruth</item>
+    </string-array>
+
+
+    <string name="book1">Genesis</string>
+    <string name="book2">Exodus</string>
+    <string name="book3">Leviticus</string>
+    <string name="book4">Numbers</string>
+    <string name="book5">Deuteronomy"</string>
+    <string name="book6">Joshua</string>
+    <string name="book7">Judges</string>
+    <string name="book8">Ruth</string>
+    <string name="book9">1 Samuel</string>
+    <string name="book10">2 Samuel</string>
+    <string name="book11">1 Kings</string>
+    <string name="book12">2 Kings</string>
+    <string name="book13">1 Chronicles</string>
+    <string name="book14">2 Chronicles</string>
+    <string name="book15">Ezra</string>
+
+
+    <string name="search_hint">search words here</string>
+    <string name="search_in">Search in:</string>
+</resources>

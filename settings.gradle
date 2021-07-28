@@ -1,0 +1,2 @@
+rootProject.name = "Concordance2"
+include ':app'
