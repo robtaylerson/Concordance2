@@ -138,7 +138,7 @@ class ReadBibleBook : AppCompatActivity() {
         val btn  = Button(this)
         btn.setText("add to favourite")
         btn.setOnClickListener {
-            Log.d("RTA-BIBLE","favourite verse " + verse_number)
+            Log.d("RTA-BIBLE","my favourite verse " + verse_number)
         }
         cardInner.addView(btn)
         cv.addView(cardInner)
